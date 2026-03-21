@@ -1,0 +1,407 @@
+[
+  {
+    "id": 1,
+    "codigo": "P1",
+    "nombre": "Arroz 1kg",
+    "categoria": "Abarrotes",
+    "precio": 25.0,
+    "stock": 50,
+    "imagen": "imagenes/arroz.png"
+  },
+  {
+    "id": 2,
+    "codigo": "P2",
+    "nombre": "Frijol 1kg",
+    "categoria": "Abarrotes",
+    "precio": 30.0,
+    "stock": 40,
+    "imagen": "imagenes/frijol.png"
+  },
+  {
+    "id": 3,
+    "codigo": "P3",
+    "nombre": "Azúcar 1kg",
+    "categoria": "Abarrotes",
+    "precio": 22.0,
+    "stock": 60,
+    "imagen": "imagenes/azucar.png"
+  },
+  {
+    "id": 4,
+    "codigo": "P4",
+    "nombre": "Harina 1kg",
+    "categoria": "Abarrotes",
+    "precio": 18.0,
+    "stock": 35,
+    "imagen": "imagenes/harina.png"
+  },
+  {
+    "id": 5,
+    "codigo": "P5",
+    "nombre": "Pasta 200g",
+    "categoria": "Abarrotes",
+    "precio": 12.0,
+    "stock": 70,
+    "imagen": "imagenes/pasta.png"
+  },
+  {
+    "id": 6,
+    "codigo": "P6",
+    "nombre": "Coca Cola 600ml",
+    "categoria": "Bebidas",
+    "precio": 18.0,
+    "stock": 80,
+    "imagen": "imagenes/coca.png"
+  },
+  {
+    "id": 7,
+    "codigo": "P7",
+    "nombre": "Agua 1L",
+    "categoria": "Bebidas",
+    "precio": 10.0,
+    "stock": 100,
+    "imagen": "imagenes/agua.png"
+  },
+  {
+    "id": 8,
+    "codigo": "P8",
+    "nombre": "Jugo Naranja",
+    "categoria": "Bebidas",
+    "precio": 20.0,
+    "stock": 60,
+    "imagen": "imagenes/jugo.png"
+  },
+  {
+    "id": 9,
+    "codigo": "P9",
+    "nombre": "Café",
+    "categoria": "Bebidas",
+    "precio": 45.0,
+    "stock": 30,
+    "imagen": "imagenes/cafe.png"
+  },
+  {
+    "id": 10,
+    "codigo": "P10",
+    "nombre": "Té",
+    "categoria": "Bebidas",
+    "precio": 25.0,
+    "stock": 50,
+    "imagen": "imagenes/te.png"
+  },
+  {
+    "id": 11,
+    "codigo": "P11",
+    "nombre": "Leche",
+    "categoria": "Lácteos",
+    "precio": 25.0,
+    "stock": 40,
+    "imagen": "imagenes/leche.png"
+  },
+  {
+    "id": 12,
+    "codigo": "P12",
+    "nombre": "Yogurt",
+    "categoria": "Lácteos",
+    "precio": 15.0,
+    "stock": 35,
+    "imagen": "imagenes/yogurt.png"
+  },
+  {
+    "id": 13,
+    "codigo": "P13",
+    "nombre": "Mantequilla",
+    "categoria": "Lácteos",
+    "precio": 28.0,
+    "stock": 25,
+    "imagen": "imagenes/mantequilla.png"
+  },
+  {
+    "id": 14,
+    "codigo": "P14",
+    "nombre": "Crema",
+    "categoria": "Lácteos",
+    "precio": 20.0,
+    "stock": 30,
+    "imagen": "imagenes/crema.png"
+  },
+  {
+    "id": 15,
+    "codigo": "P15",
+    "nombre": "Gelatina",
+    "categoria": "Lácteos",
+    "precio": 12.0,
+    "stock": 50,
+    "imagen": "imagenes/gelatina.png"
+  },
+  {
+    "id": 16,
+    "codigo": "P16",
+    "nombre": "Manzana",
+    "categoria": "Frutas y Verduras",
+    "precio": 30.0,
+    "stock": 40,
+    "imagen": "imagenes/manzana.png"
+  },
+  {
+    "id": 17,
+    "codigo": "P17",
+    "nombre": "Plátano",
+    "categoria": "Frutas y Verduras",
+    "precio": 20.0,
+    "stock": 50,
+    "imagen": "imagenes/platano.png"
+  },
+  {
+    "id": 18,
+    "codigo": "P18",
+    "nombre": "Zanahoria",
+    "categoria": "Frutas y Verduras",
+    "precio": 15.0,
+    "stock": 60,
+    "imagen": "imagenes/zanahoria.png"
+  },
+  {
+    "id": 19,
+    "codigo": "P19",
+    "nombre": "Papa",
+    "categoria": "Frutas y Verduras",
+    "precio": 18.0,
+    "stock": 70,
+    "imagen": "imagenes/papa.png"
+  },
+  {
+    "id": 20,
+    "codigo": "P20",
+    "nombre": "Tomate",
+    "categoria": "Frutas y Verduras",
+    "precio": 22.0,
+    "stock": 55,
+    "imagen": "imagenes/tomate.png"
+  },
+  {
+    "id": 21,
+    "codigo": "P21",
+    "nombre": "Pollo",
+    "categoria": "Carnes y Pescados",
+    "precio": 90.0,
+    "stock": 20,
+    "imagen": "imagenes/pollo.png"
+  },
+  {
+    "id": 22,
+    "codigo": "P22",
+    "nombre": "Res",
+    "categoria": "Carnes y Pescados",
+    "precio": 150.0,
+    "stock": 15,
+    "imagen": "imagenes/res.png"
+  },
+  {
+    "id": 23,
+    "codigo": "P23",
+    "nombre": "Cerdo",
+    "categoria": "Carnes y Pescados",
+    "precio": 120.0,
+    "stock": 18,
+    "imagen": "imagenes/cerdo.png"
+  },
+  {
+    "id": 24,
+    "codigo": "P24",
+    "nombre": "Pescado",
+    "categoria": "Carnes y Pescados",
+    "precio": 110.0,
+    "stock": 12,
+    "imagen": "imagenes/pescado.png"
+  },
+  {
+    "id": 25,
+    "codigo": "P25",
+    "nombre": "Mariscos",
+    "categoria": "Carnes y Pescados",
+    "precio": 180.0,
+    "stock": 10,
+    "imagen": "imagenes/mariscos.png"
+  },
+  {
+    "id": 26,
+    "codigo": "P26",
+    "nombre": "Detergente",
+    "categoria": "Limpieza",
+    "precio": 35.0,
+    "stock": 40,
+    "imagen": "imagenes/detergente.png"
+  },
+  {
+    "id": 27,
+    "codigo": "P27",
+    "nombre": "Suavizante",
+    "categoria": "Limpieza",
+    "precio": 30.0,
+    "stock": 30,
+    "imagen": "imagenes/suavizante.png"
+  },
+  {
+    "id": 28,
+    "codigo": "P28",
+    "nombre": "Cloro",
+    "categoria": "Limpieza",
+    "precio": 20.0,
+    "stock": 50,
+    "imagen": "imagenes/cloro.png"
+  },
+  {
+    "id": 29,
+    "codigo": "P29",
+    "nombre": "Papel Higiénico",
+    "categoria": "Limpieza",
+    "precio": 60.0,
+    "stock": 25,
+    "imagen": "imagenes/papel.png"
+  },
+  {
+    "id": 30,
+    "codigo": "P30",
+    "nombre": "Escoba",
+    "categoria": "Limpieza",
+    "precio": 80.0,
+    "stock": 15,
+    "imagen": "imagenes/escoba.png"
+  },
+  {
+    "id": 31,
+    "codigo": "P31",
+    "nombre": "Shampoo",
+    "categoria": "Cuidado Personal",
+    "precio": 45.0,
+    "stock": 30,
+    "imagen": "imagenes/shampoo.png"
+  },
+  {
+    "id": 32,
+    "codigo": "P32",
+    "nombre": "Jabón",
+    "categoria": "Cuidado Personal",
+    "precio": 15.0,
+    "stock": 60,
+    "imagen": "imagenes/jabon.png"
+  },
+  {
+    "id": 33,
+    "codigo": "P33",
+    "nombre": "Pasta Dental",
+    "categoria": "Cuidado Personal",
+    "precio": 25.0,
+    "stock": 40,
+    "imagen": "imagenes/pasta.png"
+  },
+  {
+    "id": 34,
+    "codigo": "P34",
+    "nombre": "Desodorante",
+    "categoria": "Cuidado Personal",
+    "precio": 35.0,
+    "stock": 35,
+    "imagen": "imagenes/desodorante.png"
+  },
+  {
+    "id": 35,
+    "codigo": "P35",
+    "nombre": "Crema",
+    "categoria": "Cuidado Personal",
+    "precio": 50.0,
+    "stock": 20,
+    "imagen": "imagenes/crema.png"
+  },
+  {
+    "id": 36,
+    "codigo": "P36",
+    "nombre": "Papas",
+    "categoria": "Snacks",
+    "precio": 20.0,
+    "stock": 80,
+    "imagen": "imagenes/papas.png"
+  },
+  {
+    "id": 37,
+    "codigo": "P37",
+    "nombre": "Galletas",
+    "categoria": "Snacks",
+    "precio": 18.0,
+    "stock": 70,
+    "imagen": "imagenes/galletas.png"
+  },
+  {
+    "id": 38,
+    "codigo": "P38",
+    "nombre": "Chocolate",
+    "categoria": "Snacks",
+    "precio": 25.0,
+    "stock": 60,
+    "imagen": "imagenes/chocolate.png"
+  },
+  {
+    "id": 39,
+    "codigo": "P39",
+    "nombre": "Dulces",
+    "categoria": "Snacks",
+    "precio": 10.0,
+    "stock": 100,
+    "imagen": "imagenes/dulces.png"
+  },
+  {
+    "id": 40,
+    "codigo": "P40",
+    "nombre": "Botanas",
+    "categoria": "Snacks",
+    "precio": 22.0,
+    "stock": 75,
+    "imagen": "imagenes/botanas.png"
+  },
+  {
+    "id": 41,
+    "codigo": "P41",
+    "nombre": "Croquetas Perro",
+    "categoria": "Mascotas",
+    "precio": 250.0,
+    "stock": 20,
+    "imagen": "imagenes/perro.png"
+  },
+  {
+    "id": 42,
+    "codigo": "P42",
+    "nombre": "Croquetas Gato",
+    "categoria": "Mascotas",
+    "precio": 220.0,
+    "stock": 15,
+    "imagen": "imagenes/gato.png"
+  },
+  {
+    "id": 43,
+    "codigo": "P43",
+    "nombre": "Arena Gato",
+    "categoria": "Mascotas",
+    "precio": 180.0,
+    "stock": 10,
+    "imagen": "imagenes/arena.png"
+  },
+  {
+    "id": 44,
+    "codigo": "P44",
+    "nombre": "Juguete",
+    "categoria": "Mascotas",
+    "precio": 50.0,
+    "stock": 30,
+    "imagen": "imagenes/juguete.png"
+  },
+  {
+    "id": 45,
+    "codigo": "P45",
+    "nombre": "Correa",
+    "categoria": "Mascotas",
+    "precio": 90.0,
+    "stock": 25,
+    "imagen": "imagenes/correa.png"
+  }
+]

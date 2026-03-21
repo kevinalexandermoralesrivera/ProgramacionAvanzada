@@ -1,0 +1,20 @@
+{
+  "folio": "001",
+  "items": [
+    {
+      "producto": {
+        "id": 2,
+        "codigo": "P2",
+        "nombre": "Frijol 1kg",
+        "categoria": "Abarrotes",
+        "precio": 30.0,
+        "stock": 40,
+        "imagen": "imagenes/frijol.png"
+      },
+      "cantidad": 1
+    }
+  ],
+  "subtotal": 30.0,
+  "iva": 4.8,
+  "total": 34.8
+}
